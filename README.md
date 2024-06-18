@@ -7,9 +7,43 @@
 
 ### I am not only technically proficient, but also an excellent communicator and collaborator, which is essential to ensure the quality of the final product for the client. I am committed to exceed client's expectations through my skills and attention to details. Furthermore, I have experience in working with popular frontend libraries and frameworks such as Gatsby, Next.js, and Angular. Also, I enjoy sharing my experiences and insights through writing on industry-leading platforms and contributing to open-source projects on GitHub, to always be updated with the latest trends in the field.
 
-## 🛠️ Tools I work with
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs,vue,angular,js,html,css,bootstrap,c,cs,cpp,figma,git,github,ai,jquery,nodejs,sass,vscode,webpack,wordpress,xd)](https://skillicons.dev)
 
+   ## ⚡ Technologies I use 
+
+<div align="center">
+<table align="center">
+    <tr>
+        <td align="center" width="140" height="112.43">
+            <img src="./assets/icons/python.jpeg" width="65px"/>
+            <br /> Python
+        </td>
+        <td align="center" width="140" height="112.43">
+            <img src="./assets/icons/jupyter.png" width="65px"/>
+            <br /> Jupyter
+        </td>
+        <td align="center" width="140" height="112.43">
+            <img src="./assets/icons/tensorflow.png" width="65px"/>
+            <br /> TensorFlow
+        </td>
+        <td align="center" width="140" height="112.43">
+            <img src="./assets/icons/pytorch.png" width="65px"/>
+            <br /> Pytorch
+        </td>
+        <td align="center" width="140" height="112.43">
+            <img src="./assets/icons/scikitlearn.png" width="65px"/>
+            <br /> Scikit Learn
+        </td>
+        <td align="center" width="140" height="112.43">
+            <img src="./assets/icons/fastapi.png" width="65px"/>
+            <br /> FastAPI
+        </td>
+        <td align="center" width="140" height="112.43">
+            <img src="./assets/icons/docker.png" width="65px"/>
+            <br /> Docker
+        </td>
+    </tr>
+</table>
+</div>
 ## 📊 Github Stats 
 
 <details open> 
