@@ -2,4 +2,37 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=50&duration=2000&pause=2000&width=850&height=80&lines=FullStack+%26+Web+Developer;Frontend+Focused+%26+Developer)](https://git.io/typing-svg)
 
+<div style="text-align: center;">
+    <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> 
+    <b>LeonV</b>
+    <img src="https://komarev.com/ghpvc/?username=xleonardov&color=brightgreen" alt="Profile views" style="display:inline-block;">
+</div>
+<br>
+
+<div>
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=xleonardov&show=reviews%2Cprs_merged&theme=dark"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=xleonardov&show=reviews%2Cprs_merged"
+      media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api?username=xleonardov&show=reviews%2Cprs_merged&theme=dark" />
+  </picture>
+
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=xleonardov&layout=donut&langs_count=6&theme=dark"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=xleonardov&layout=donut&langs_count=6"
+      media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xleonardov&layout=donut&langs_count=6&theme=dark" />
+  </picture>
+</div>
+
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
